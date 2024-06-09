@@ -7,12 +7,6 @@ Downlode Ruby for the SCSS
 npm i -g scss
 ```
 
-### Map SCSS file with HTML
-
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" alt="YouTube Logo" width="80">
-
-Also map js file with html file 
-
 Project run successfully
 
 
